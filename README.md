@@ -1,0 +1,1 @@
+This repository contains a simple Python function that exhibits an intermittent ZeroDivisionError. The error only occurs when the input to the function is 0.  This example highlights the importance of robust error handling, especially when dealing with potential division by zero situations.
